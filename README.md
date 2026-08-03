@@ -1,5 +1,5 @@
 <h1 align="center">Luqman Abdulwasii</h1>
-<h3 align="center">React Native Developer · Building production-ready mobile apps and full-stack products</h3>
+<h3 align="center">Mobile App Developer · Software Engineer</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/abdulwasii-luqman"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
