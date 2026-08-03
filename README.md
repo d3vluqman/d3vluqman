@@ -1,5 +1,5 @@
 <h1 align="center">Luqman Abdulwasii</h1>
-<h3 align="center">Mobile App Developer · Software Engineer</h3>
+<h3 align="center">React Native Developer · Building production-ready mobile apps and full-stack products</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/abdulwasii-luqman"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
@@ -11,11 +11,10 @@
 
 ### 👋 About Me
 
-- 📱 I build React Native mobile apps end-to-end and sweat the details most devs skip.
-- 🧩 I'm also comfortable across the stack — I've built full-stack web platforms and an applied-ML system too.
-- 🎓 I'm a graduate of Information Systems from [FUTA](https://futa.edu.ng).
-- 🔭 I'm looking for entry level **Mobile App Developer** and **Software Engineer** roles.
-- 📈 I'm also curious about quantitative finance.
+- 📱 I build polished cross-platform mobile apps with React Native & Expo.
+- 🧩 I also build full-stack web applications and AI-powered software.
+- 🎓 B.Tech Computer Information Systems graduate [FUTA](https://futa.edu.ng).
+- 🔭 Currently seeking Mobile App Developer and Software Engineer opportunities.
 - 📍 Ilorin, Nigeria.
 
 ---
@@ -47,19 +46,19 @@
 
 ### 📱 Featured Mobile Apps
 
-**[Wird](https://github.com/d3vluqman/wird)** — Daily Quran habit companion *(in active development)*
+**[Wird](https://github.com/d3vluqman/wird)** — Daily Quran habit companion<br>
 Personalized daily portions, verse-by-verse audio recitation, translation and tafseer, streak tracking, and OAuth2+PKCE cloud sync.
 `React Native` `Expo` `Expo Router`
 
-**[Relishr](https://github.com/d3vluqman/relishr)** — Recipe discovery & meal planner
+**[Relishr](https://github.com/d3vluqman/relishr)** — Recipe discovery & meal planner<br>
 Drag-and-drop weekly meal planning with auto-generated shopping lists.
 `React Native` `Expo` `TanStack Query` `Spoonacular API`
 
-**[Sakeenah](https://github.com/d3vluqman/sakeenah_mobile)** — Guided spiritual companion *(in active development)*
+**[Sakeenah](https://github.com/d3vluqman/sakeenah_mobile)** — Guided spiritual companion<br>
 Structured "pathways" toward personal growth goals, plus mentorship.
 `React Native` `Expo` `Firebase`
 
-**[Spendlr](https://github.com/d3vluqman/spendlr)** — Subscription & expense tracker *(in active development)*
+**[Spendlr](https://github.com/d3vluqman/spendlr)** — Subscription & expense tracker<br>
 Hand-built SVG analytics and guided cancellation flows for 50+ services.
 `React Native` `Expo` `TypeScript` `Zustand`
 
@@ -67,18 +66,10 @@ Hand-built SVG analytics and guided cancellation flows for 50+ services.
 
 ### 🧱 Also Building Across the Stack
 
-**[Candidate Evaluation System](https://github.com/d3vluqman/ai-recruiter)** — AI-powered recruitment platform
+**[Candidate Evaluation System](https://github.com/d3vluqman/ai-recruiter)** — AI-powered recruitment platform<br>
 NLP-based resume parsing and multi-algorithm candidate scoring across a three-service architecture.
 `Python` `FastAPI` `spaCy` `Node.js` `React` `Supabase`
 
-**[Teemah's Kitchen](https://github.com/d3vluqman/teemahs-kitchen)** — Catering business website
+**[Teemah's Kitchen](https://github.com/d3vluqman/teemahs-kitchen)** — Catering business website<br>
 Mobile-first ordering site with WhatsApp checkout and a Supabase-backed CMS.
 `Next.js 15` `TypeScript` `Tailwind CSS` `Supabase`
-
----
-
-### 📫 Let's Connect
-
-- ✉️ [luqmanabdulwasii@gmail.com](mailto:luqmanabdulwasii@gmail.com)
-- 💼 [LinkedIn](https://linkedin.com/in/abdulwasii-luqman)
-- 🐦 [@d3vluqman](https://twitter.com/d3vluqman)
